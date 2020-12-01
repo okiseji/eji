@@ -1,1 +1,1 @@
-# eji
+# the way of learn
